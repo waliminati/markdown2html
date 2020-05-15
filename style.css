@@ -1,0 +1,30 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-family: "Bitstream Charter";
+    font-size: 20px;
+}
+
+h2 {
+    background-color: white
+}
+
+ul {
+    padding: 20px;
+}
+
+h3 {
+    background-color: white;
+}
+
+tr {
+    background-color: white;
+    color: black;
+}
